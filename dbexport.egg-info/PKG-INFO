@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: dbexport
+Version: 0.1.0
+Summary: Internal library for interacting with Products and Reviews database
+Home-page: https://github.com/Nelson-Lamounier/dbexport-cloudguru-proj
+Author: Nelson Lamounier
+Author-email: lamounierleao@gmail.com
+License: MIT
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: Implementation :: CPython
+Classifier: Programming Language :: Python :: Implementation :: PyPy
+Requires-Python: >=3.7.0
+Description-Content-Type: text/markdown
+
+Internal library for interacting with Products and Reviews database
