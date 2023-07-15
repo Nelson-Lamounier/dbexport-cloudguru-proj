@@ -31,6 +31,7 @@ class Product(Base):
 
     id = Column(Integer, primary_key=True)
     name = Column(Integer, nullable=False)
+    level = Column(Integer, nullable=False)
     published = Column(Boolean, nullable=False)
     created_on = Column(TIMESTAMP)
 
